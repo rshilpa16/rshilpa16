@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @rshilpa16
-- 👀 I’m interested in Data Analytics. Passionate about unconvering insightsand using data to inform and improve business process.
+- 👀 Data Analyst with 4 years of work experience. Passionate about uncovering insights and using data to inform 
+and improve business processes with business intelligence tools Power BI, Tableau. Skilled in Advance Excel, 
+SQL, Python and R.
 
 <!---
 rshilpa16/rshilpa16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
