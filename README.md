@@ -1,5 +1,5 @@
 - Data Analyst with 4.5 years of work experience. Passionate about uncovering insights and using data to inform 
-and improve business processes with business intelligence tools Power BI, Tableau. Skilled in Advance Excel, 
+and improve business processes with business intelligence tools like Power BI, Tableau. Skilled in Advance Excel, 
 SQL, Python and R.
 
 <!---
